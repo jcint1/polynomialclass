@@ -1,0 +1,2 @@
+# polynomialclass
+Python Polynomial Class
